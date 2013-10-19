@@ -9,7 +9,6 @@ import android.graphics.drawable.BitmapDrawable;
 import android.os.Handler;
 import android.service.wallpaper.WallpaperService;
 import android.util.DisplayMetrics;
-import android.util.//////////////Log;
 import android.view.SurfaceHolder;
 
 public class FallingSnowWallpaperService extends WallpaperService {
